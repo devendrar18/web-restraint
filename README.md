@@ -9,3 +9,5 @@ Secure Site
 	The secure website also shows the same menu as the vulnerable site, but this time no attack works. This site makes use of https for security purposes. 
 	This site covers all the vulnerabilities and also shows some additional security measures to show secure practice of programming.
 	This site is developed in Eclipse IDE. 
+
+Disclaimer : The project can't guarantee that it is 100% secure or flawless as new vulnerabilities are discovered everyday, so it is designed to roughtly give an idea of how things work with respect to the vulnerabilities and how they can be mitigated in easy way
